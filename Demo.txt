@@ -1,3 +1,5 @@
 This is git-demo2.
 
-Creating a new branch is quick and simple
+Creating a new branch is quick and simple.
+
+This is test for --no-off in merge.
