@@ -6,4 +6,4 @@ This is test for --no-off in merge.
 
 This is a dev branch commit.
 
-This is test for merge from clone.
+This is test for merge from clone.This is a dev branch commit from clone.
