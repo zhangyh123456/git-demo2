@@ -1,1 +1,3 @@
 This is git-demo2.
+
+Creating a new branch is quick.
