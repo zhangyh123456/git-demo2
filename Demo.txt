@@ -5,3 +5,5 @@ Creating a new branch is quick and simple.
 This is test for --no-off in merge.
 
 This is a dev branch commit.
+
+This is test for merge from clone.
